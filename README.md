@@ -47,3 +47,4 @@ Python dosyasını çalıştırın:
 python customer_support_assignment.py
 python marketing_campaign_selection.py
 
+# CRM-Optimization-Project
